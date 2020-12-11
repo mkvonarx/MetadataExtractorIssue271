@@ -1,3 +1,5 @@
+dotnet build
+
 :: only Test-exiftool.jpg
 .\bin\Debug\net5.0\MetadataExtractorBug.exe Test-exiftool.jpg
 
